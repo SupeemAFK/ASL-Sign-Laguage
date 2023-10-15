@@ -6,4 +6,4 @@
 ### 3.) Meidapipe
     
 ## Dataset
-[Kaggle]([/guides/content/editing-an-existing-page](https://www.kaggle.com/datasets/grassknoted/asl-alphabet)https://www.kaggle.com/datasets/grassknoted/asl-alphabet)
+[Kaggle](https://www.kaggle.com/datasets/grassknoted/asl-alphabet)
